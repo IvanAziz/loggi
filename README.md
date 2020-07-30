@@ -13,3 +13,5 @@ This repo provides some examples of how to integrate to the Loggi's GraphQL endp
 ##  Live preview
 
 [https://codesandbox.io/s/github/loggi/graphql-integration-app/](https://codesandbox.io/s/github/loggi/graphql-integration-app/)
+
+Deve subir essa alteração.
